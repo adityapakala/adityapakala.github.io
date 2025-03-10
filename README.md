@@ -3,8 +3,6 @@
 ## About Me
 I am Aditya Pakala, a passionate Data Scientist with experience in Machine Learning, AI research, and software development. I have worked in startups, research labs, and large-scale data science projects, leveraging AI to solve real-world problems.
 
-![Aditya Pic](/assets/aditya_pic.jpg)
-
 ## Education
 **The University of Texas at Dallas - Richardson, TX**  
 Master of Science, Information Technology and Management (GPA: 4.0/4.0)  
