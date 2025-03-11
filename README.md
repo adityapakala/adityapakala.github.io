@@ -8,12 +8,13 @@ I am Aditya Pakala, a passionate Data Scientist with experience in Machine Learn
 Master of Science, Information Technology and Management (GPA: 4.0/4.0)  
 Relevant Coursework: Object Oriented Programming, Database Systems, Applied Machine Learning, Deep Learning  
 
-![UT Dallas Logo](/assets/utd.png)
+<img src="/assets/utd.png" alt="UT Dallas Logo" width="200" />
 
 **Birla Institute of Technology and Science, Pilani - India**  
 Dual Degree with Master of Science and Bachelor of Engineering  
 
-![BITS Pilani Logo](/assets/bits_pilani.png)
+<img src="/assets/bits_pilani.png" alt="BITS Pilani Logo" width="200" />
+
 
 ## Work Experience
 ### **ZeoAuto (YC W20), Mountain View, CA** *(Jan 2024 - Jul 2024)*
