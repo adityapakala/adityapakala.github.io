@@ -9,11 +9,11 @@
 
 main:
 
-   - title: "About"
-    url: /about/  
+    - title: "About"
+     url: /about/  
 
-   - title: "Publications"
-    url: /publications/
+    - title: "Publications"
+     url: /publications/
 
   #- title: "Teaching"
    # url: /teaching/    
@@ -24,8 +24,8 @@ main:
   #- title: "Blog Posts"
    # url: /year-archive/
     
-   - title: "CV"
-    url: /files/Aditya_Pakala_Resume_2025.pdf
+    - title: "CV"
+     url: /files/Aditya_Pakala_Resume_2025.pdf
     
   # - title: "CV"
   #   url: /cv-json/
