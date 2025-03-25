@@ -1,35 +1,53 @@
 ---
 permalink: /
-title: "Welcome to My Website"
+title: "Welcome to My Website 🚀"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I’m Aditya Pakala, a Software, Data Science, and AI Enthusiast, currently pursuing my Master’s at The University of Texas at Dallas. My experience spans data science, machine learning, and software development, with roles at a Y Combinator-backed startup (ZeoAuto), a research internship at the Artificial Intelligence Institute of South Carolina, and a data analyst position at InMobi.
-
-I thrive at the intersection of AI, big data, and scalable software systems, applying machine learning, statistical analysis, and automation to solve real-world problems.
-
-Areas of Interest
+Hey there! 👋
 ======
-Software Development – Python, R, Java, Cloud Computing (AWS, GCP, Azure)
+I’m Aditya Pakala, a Software, Data Science, and AI Enthusiast currently pursuing my Master’s at The University of Texas at Dallas. I thrive at the intersection of AI, big data, and scalable systems, turning complex data into actionable insights and AI into real-world impact! 🚀
 
-Machine Learning & AI – Deep Learning, NLP, Generative AI, Predictive Modeling
+🔹 Diverse Experience Across Startups, MNCs & Research
+🚀 Y Combinator Startup – ZeoAuto (YC W20)
+🏢 Global Tech & MNC – InMobi
+🔬 Cutting-Edge AI Research – Artificial Intelligence Institute of South Carolina
 
-Data Science & Analytics – Big Data, SQL, Spark, Business Intelligence
+With hands-on exposure to fast-paced startups, large-scale MNCs, and deep tech research, I bring a unique blend of agility, scale, and innovation to every project I work on.
 
-Quantitative Research – Financial Analytics, Statistical Modeling
-
-
-Getting started
+🔥 Areas of Interest & Tech Stack
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+💻 Software Development – Python, R, Java, C++, Go, JavaScript, TypeScript, Cloud Computing (AWS, GCP, Azure), Microservices, REST APIs, GraphQL
+🧠 Machine Learning & AI – Deep Learning, NLP, Generative AI, LLMs (GPT, BERT, T5), Computer Vision, Reinforcement Learning, Predictive Modeling, MLOps (Kubeflow, MLflow, TensorFlow Serving)
+📊 Data Science & Analytics – Big Data (Spark, Hadoop, Dask), SQL, NoSQL (MongoDB, Cassandra), Data Warehousing (Snowflake, BigQuery, Redshift), BI Tools (Tableau, Power BI, Looker), Feature Engineering
+🛠️ DevOps & Engineering – Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Jenkins), Infrastructure as Code, Scalability & Performance Optimization
+📈 Quantitative Research – Financial Analytics, Time Series Forecasting, Risk Modeling, Statistical Modeling (Bayesian Inference, Hypothesis Testing, A/B Testing)
+🚀 Additional Interests – Edge AI, AI for Finance, Large-Scale Distributed Systems, High-Frequency Trading (HFT) Models
+
+Research Publications 📚✨
+======
+1. FACTIFY3M: A Benchmark for Multimodal Fact Verification with Explainability through 5W Question-Answering 📄 — Conference Paper, Published: January 2023, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
+2. Advancing Predictive Maintenance: A Data-Driven Approach for Accurate Equipment Failure Prediction 🔧 — Chapter, Published: February 2025, Authors: Aditya Pakala, Dhairya Shah, Sunil Jha
+3. Drug Discovery using Artificial Intelligence 💊 — Article, Published: February 2023, Authors: Aditya Pakala, Kunal Vora, Bandanadam Anusha Rani, Suprith Bc
+4. Mathematical Modeling of Simultaneous Nitrification and Denitrification in Bioreactor Systems 🧪 — Conference Paper, Published: March 2023, National Conference on “Sustainable Technologies in Chemical-Biological Systems” (STCBS)
+5. Heart Disease Prediction by Machine Learning Over Big Data from Health Care Communities ❤️ — Conference Paper
+
+📢 News & Updates
+======
+📌 June 2025 – Incoming Summer Intern at ....... 🎉!
+📌 Feb 27, 2025 – Research Paper "Advancing Predictive Maintenance: A Data-Driven Approach for Accurate Equipment Failure Prediction" published in Industry 4.0 and Advanced Manufacturing, Volume 1 🎓
+📌 Oct 7, 2023 – Research Paper Accepted at EMNLP 2023 🎉 FACTIFY3M: A Benchmark for Multimodal Fact Verification with Explainability through 5W Question-Answering 📖
+📌 Aug 2024 – Started my Master’s at The University of Texas at Dallas (UTD) 🎓 Focused on Applied Machine Learning and Data Science! 🧠
+📌 Jan 2024 – Presented at International Conference at IISc Bangalore 📍 Presented paper: "Predictive Maintenance using ML Algorithms"
+📌 Jan 2024 - Jul 2024 – Started Internship at ZeoAuto (YC W20) 🚀 Excited to contribute to cutting-edge AI-powered solutions!
+📌 Jul 2023 - Dec 2023 – Completed Internship at InMobi 📊 Enhancing business strategies through data and machine learning!
+📌 May 2023 - Jul 2023 – Completed Project Internship at IIT Delhi 🔬 Working on predictive maintenance with machine learning!
+📌 Aug 2022 - Jul 2023 – Completed Research Internship at AI Institute of South Carolina 🔬 Working on multimodal AI and fake news detection!
+📌 Oct 3, 2022 – Earned the Bloomberg Market Concepts (BMC) Certification 📈 Expanding my financial and data analytics knowledge!
+📌 Aug 2019 – Started Dual Degree at BITS Pilani 🎓 Leading in technology and innovation in India!
 
 Site-wide configuration
 ------
