@@ -11,15 +11,25 @@ I’m Aditya Pakala, a Software, Data Science, and AI Enthusiast currently pursu
 
 Why Hire Me? 💡
 ======
+With hands-on exposure to fast-paced startups, large-scale MNCs, and deep tech research, I bring a unique blend of agility, scale, and innovation to every project I work on.
+
 🔹 Diverse Experience Across Startups, MNCs & Research
-
+----
 🚀 Y Combinator Startup – ZeoAuto (YC W20)
-
 🏢 Global Tech & MNC – InMobi
-
 🔬 Cutting-Edge AI Research – Artificial Intelligence Institute of South Carolina
 
-With hands-on exposure to fast-paced startups, large-scale MNCs, and deep tech research, I bring a unique blend of agility, scale, and innovation to every project I work on.
+🔹 Academic Excellence
+----
+🎓 Master of Science – The University of Texas at Dallas
+🏆 Dean's Excellence Scholarship Recipient
+🎓 Master of Science – BITS Pilani
+🎓 Bachelor of Engineering – BITS Pilani
+
+🔹 Research Publications
+----
+📚 Published 5 Research Papers in Prestigious International Conferences & Journals, including EMNLP 2023.
+
 
 🔥 Areas of Interest & Tech Stack
 ======
