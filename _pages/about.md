@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Why Hire Me? 💡
+======
 I’m Aditya Pakala, a Software, Data Science, and AI Enthusiast currently pursuing my Master’s at The University of Texas at Dallas. I thrive at the intersection of AI, big data, and scalable systems, turning complex data into actionable insights and AI into real-world impact! 🚀
 
 🔹 Diverse Experience Across Startups, MNCs & Research
