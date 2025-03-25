@@ -22,8 +22,11 @@ With hands-on exposure to fast-paced startups, large-scale MNCs, and deep tech r
 🔹 Academic Excellence
 ----
 🎓 Master of Science – The University of Texas at Dallas
+
 🏆 Dean's Excellence Scholarship Recipient
+
 🎓 Master of Science – BITS Pilani
+
 🎓 Bachelor of Engineering – BITS Pilani
 
 🔹 Research Publications
