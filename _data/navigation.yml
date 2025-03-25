@@ -9,8 +9,8 @@
 
 main:
 
-  - title: "Talks"
-    url: /talks/
+  - title: "About"
+    url: /about/
     
   - title: "Publications"
     url: https://www.researchgate.net/profile/Aditya-Pakala/stats    
