@@ -16,7 +16,9 @@ With hands-on exposure to fast-paced startups, large-scale MNCs, and deep tech r
 🔹 Diverse Experience Across Startups, MNCs & Research
 ----
 🚀 Y Combinator Startup – ZeoAuto (YC W20)
+
 🏢 Global Tech & MNC – InMobi
+
 🔬 Cutting-Edge AI Research – Artificial Intelligence Institute of South Carolina
 
 🔹 Academic Excellence
