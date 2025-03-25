@@ -8,14 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: "Talks"
+    url: /talks/
+    
   - title: "Publications"
-    url: /publications/
+    url: https://www.researchgate.net/profile/Aditya-Pakala/stats    
 
-  #- title: "Talks"
-   # url: /talks/    
-
-  #- title: "Teaching"
-   # url: /teaching/    
+  - title: "Projects"
+    url: /projects/    
     
  # - title: "Portfolio"
   #  url: /portfolio/
