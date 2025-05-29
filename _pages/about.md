@@ -58,7 +58,7 @@ Research Publications 📚✨
 
 📢 News & Updates
 ======
-📌 June 2025 – Incoming Summer Intern at ....... 🎉!
+📌 June 2025 – Incoming Summer Intern @ Walmart Global Tech 🎉!
 
 📌 Feb 27, 2025 – Research Paper "Advancing Predictive Maintenance: A Data-Driven Approach for Accurate Equipment Failure Prediction" published in Industry 4.0 and Advanced Manufacturing, Volume 1 🎓
 
