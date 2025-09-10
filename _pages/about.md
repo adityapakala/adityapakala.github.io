@@ -11,7 +11,7 @@ I’m Aditya Pakala, a Software, Data Science, and AI Enthusiast currently pursu
 
 Why Hire Me? 💡
 ======
-With hands-on exposure to fast-paced startups, large-scale MNCs, and deep tech research, I bring a unique blend of agility, scale, and innovation to every project I work on.
+With hands-on experience across fast-paced startups, big tech, large-scale MNCs, and deep tech research, I bring a unique blend of agility, scale, and innovation to every project I work on.
 
 🔹 Diverse Experience Across Startups, MNCs & Research
 ----
@@ -58,7 +58,9 @@ Research Publications 📚✨
 
 📢 News & Updates
 ======
-📌 June 2025 – Incoming Summer Intern @ Walmart Global Tech 🎉!
+📌 Fall 2025 – SDE Co-op @ Amazon
+
+📌 Summer 2025 – Data Science Intern @ Walmart Global Tech
 
 📌 Feb 27, 2025 – Research Paper "Advancing Predictive Maintenance: A Data-Driven Approach for Accurate Equipment Failure Prediction" published in Industry 4.0 and Advanced Manufacturing, Volume 1 🎓
 
