@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 <style>
-  .home-intro { margin: 0 0 1.4rem; }
-  .home-intro h2 { margin: 0 0 .7rem; font-size: 1.55rem; border-bottom: 0; }
-  .home-intro p { margin: 0; line-height: 1.7; }
-  .home-contact { margin: .15rem 0 1.2rem; padding: .85rem 1rem; border: 1px solid #e2e8f0; border-radius: 7px; background: #fafcff; }
-  .home-contact h3 { margin: 0 0 .55rem; padding: 0; border: 0; font-size: 1rem; }
-  .home-contact-email { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; margin-bottom: .65rem; }
-  .home-contact-email a { font-size: .92rem; overflow-wrap: anywhere; }
-  .home-contact-actions { display: flex; gap: .55rem; flex-wrap: wrap; align-items: center; }
-  .home-contact-actions a, .home-contact-email button { font: inherit; font-size: .85rem; line-height: 1.4; padding: .42rem .75rem; border-radius: 5px; text-decoration: none; cursor: pointer; }
-  .home-contact-actions .contact-primary { background: #2563eb; color: white !important; border: 1px solid #2563eb; }
-  .home-contact-actions .contact-secondary, .home-contact-email button { background: white; color: #334155; border: 1px solid #cbd5e1; }
+  .home-intro { margin: 0 0 1.1rem; }
+  .home-intro-heading { display: flex; align-items: center; justify-content: flex-start; gap: .85rem; flex-wrap: wrap; margin-bottom: .7rem; }
+  .home-intro-heading h2 { margin: 0; padding: 0; font-size: 1.55rem; border: 0; }
+  .home-intro p { margin: 0 0 .65rem; line-height: 1.7; }
+  .home-contact-actions { display: flex; align-items: center; flex-wrap: wrap; gap: .5rem; }
+  .home-contact-actions a { display: inline-flex; align-items: center; font-size: .82rem; font-weight: 600; line-height: 1.4; padding: .4rem .7rem; border-radius: 5px; text-decoration: none !important; }
+  .home-contact-actions .contact-primary { background: #2563eb; color: #fff !important; border: 1px solid #2563eb; }
+  .home-contact-actions .contact-secondary { background: #fff; color: #334155 !important; border: 1px solid #cbd5e1; }
+  .home-contact-email { display: flex; align-items: center; flex-wrap: wrap; gap: .6rem; font-size: .9rem; }
+  .home-contact-email a { overflow-wrap: anywhere; }
+  .home-contact-email button { background: #fff; color: #334155; border: 1px solid #cbd5e1; border-radius: 5px; font: inherit; font-size: .78rem; padding: .2rem .5rem; cursor: pointer; }
   .home-main { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); gap: 1.6rem; align-items: start; margin: 1.3rem 0 1.2rem; }
   .home-main > * { min-width: 0; }
   .home-photo { display: block; width: 100%; height: auto; border-radius: 6px; margin: 0; }
@@ -42,21 +42,19 @@ redirect_from:
 </style>
 
 <div class="home-intro">
-  <h2>Hey, I'm Aditya!</h2>
+  <div class="home-intro-heading">
+    <h2>Hey, I'm Aditya!</h2>
+    <div class="home-contact-actions" aria-label="Contact links">
+      <a class="contact-primary" href="mailto:aditya.pakala279@gmail.com">✉ Email</a>
+      <a class="contact-secondary" href="https://www.linkedin.com/in/adityapakala/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
+    </div>
+  </div>
   <p>Just a curious guy who loves building things and figuring out how they work. I believe AI is one of the biggest revolutions of our time, and I want to play my part in making it more capable, safe, and useful for everyone.</p>
-</div>
-
-<section class="home-contact" aria-label="Contact Aditya">
-  <h3>Let's connect!</h3>
   <div class="home-contact-email">
     <a href="mailto:aditya.pakala279@gmail.com">aditya.pakala279@gmail.com</a>
     <button type="button" onclick="navigator.clipboard.writeText('aditya.pakala279@gmail.com').then(() => { this.textContent = 'Copied!'; }).catch(() => { this.textContent = 'Select email to copy'; });" aria-label="Copy email address">Copy</button>
   </div>
-  <div class="home-contact-actions">
-    <a class="contact-primary" href="mailto:aditya.pakala279@gmail.com">✉ Email me ↗</a>
-    <a class="contact-secondary" href="https://www.linkedin.com/in/adityapakala/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
-  </div>
-</section>
+</div>
 
 <div class="home-main">
   <img class="home-photo" src="{{ '/aditya-mit-portrait.jpg' | relative_url }}" alt="Aditya at the MIT campus" loading="eager">
