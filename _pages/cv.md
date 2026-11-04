@@ -4,8 +4,6 @@ author_profile: true
 title: "Experience & CV"
 description: "Aditya Pakala's experience, education, publications, and technical background."
 permalink: /cv/
-redirect_from:
-  - /resume
 ---
 <div class="academic-content"><h1>Experience</h1><p class="intro-copy">My work across applied AI, machine learning systems, and research.</p>
 
