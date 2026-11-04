@@ -1,34 +1,13 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
 main:
-
-  - title: "About"
-    url: /about/
-    
-  - title: "Publications"
-    url: https://www.researchgate.net/profile/Aditya-Pakala/stats    
-
+  - title: "Home"
+    url: /
+  - title: "Experience"
+    url: /#experience
   - title: "Projects"
-    url: /projects/    
-    
- # - title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-   # url: /year-archive/
-    
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
   - title: "CV"
-    url: /files/Aditya_Pakala_Resume_2025.pdf
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  #- title: "Guide"
-   # url: /markdown/
+    url: /cv/
+  - title: "GitHub"
+    url: https://github.com/adityapakala

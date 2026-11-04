@@ -1,84 +1,79 @@
 ---
 permalink: /
-title: "Hey there! 👋"
+title: "Aditya Pakala | AI, Research & Software"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I’m Aditya Pakala, a Software, Data Science, and AI Enthusiast currently pursuing my Master’s at The University of Texas at Dallas. I thrive at the intersection of AI, big data, and scalable systems, turning complex data into actionable insights and AI into real-world impact! 🚀
+# Building reliable AI systems, from research to production
 
-Why Hire Me? 💡
-======
-With hands-on experience across fast-paced startups, big tech, large-scale MNCs, and deep tech research, I bring a unique blend of agility, scale, and innovation to every project I work on.
+I'm Aditya Pakala, a software engineer with experience in applied machine learning, AI research, and production software. I focus on turning emerging AI capabilities into dependable tools that solve real problems.
 
-🔹 Diverse Experience Across Startups, MNCs & Research
-----
-🚀 Y Combinator Startup – ZeoAuto (YC W20)
+My work spans software engineering at **Amazon Robotics**, applied AI at **Walmart Global Tech**, backend and ML systems at **ZeoAuto (Y Combinator)**, and research in multimodal fact verification and predictive maintenance.
 
-🏢 Global Tech & MNC – InMobi
+[Experience](#experience) · [Research & publications](/publications/) · [Projects](/projects/) · [CV](/cv/) · [GitHub](https://github.com/adityapakala) · [LinkedIn](https://www.linkedin.com/in/adityapakala/)
 
-🔬 Cutting-Edge AI Research – Artificial Intelligence Institute of South Carolina
+## What I work on
 
-🔹 Academic Excellence
-----
-🎓 Master of Science – The University of Texas at Dallas
+**AI agents and evaluation.** Grounding, retrieval, model evaluation, and measuring whether AI-assisted workflows produce useful, trustworthy results.
 
-🏆 Dean's Excellence Scholarship Recipient
+**Production ML and software systems.** Python, Java, APIs, cloud infrastructure, data pipelines, and the engineering required to operate systems beyond a prototype.
 
-🎓 Master of Science – BITS Pilani
+**Research to deployment.** Translating research questions into measurable experiments, benchmarks, and practical implementations.
 
-🎓 Bachelor of Engineering – BITS Pilani
+## Experience
 
-🔹 Research Publications
-----
-📚 Published 5 Research Papers in Prestigious International Conferences & Journals, including EMNLP 2023.
+### Amazon Robotics | Software Development Engineer
+**2026–present** · Previously Software Development Engineer Co-op, 2025
 
+Building software for robotics systems, with a focus on dependable services, engineering quality, and production workflows.
 
-🔥 Areas of Interest & Tech Stack
-======
-💻 Software Development – Python, R, Java, C++, Go, JavaScript, TypeScript, Cloud Computing (AWS, GCP, Azure), Microservices, REST APIs, GraphQL
+### Walmart Global Tech | Applied AI / Data Science
+**2025–2026**
 
-🧠 Machine Learning & AI – Deep Learning, NLP, Generative AI, LLMs (GPT, BERT, T5), Computer Vision, Reinforcement Learning, Predictive Modeling, MLOps (Kubeflow, MLflow, TensorFlow Serving)
+Worked on applied AI, machine learning, and data-driven systems for real-world business problems.
 
-📊 Data Science & Analytics – Big Data (Spark, Hadoop, Dask), SQL, NoSQL (MongoDB, Cassandra), Data Warehousing (Snowflake, BigQuery, Redshift), BI Tools (Tableau, Power BI, Looker), Feature Engineering
+### ZeoAuto (Y Combinator) | Software Engineering
+**2024**
 
-📈 Quantitative Research – Financial Analytics, Time Series Forecasting, Risk Modeling, Statistical Modeling (Bayesian Inference, Hypothesis Testing, A/B Testing)
+Worked on backend services and machine-learning-enabled routing and logistics workflows.
 
-🚀 Additional Interests – Edge AI, AI for Finance, Large-Scale Distributed Systems, High-Frequency Trading (HFT) Models
+### AI Institute, University of South Carolina | AI Research
+**2022–2023**
 
-Research Publications 📚✨
-======
-1. FACTIFY3M: A Benchmark for Multimodal Fact Verification with Explainability through 5W Question-Answering 📄 — Conference Paper, Published: January 2023, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
-2. Advancing Predictive Maintenance: A Data-Driven Approach for Accurate Equipment Failure Prediction 🔧 — Chapter, Published: February 2025, Authors: Aditya Pakala, Dhairya Shah, Sunil Jha
-3. Drug Discovery using Artificial Intelligence 💊 — Article, Published: February 2023, Authors: Aditya Pakala, Kunal Vora, Bandanadam Anusha Rani, Suprith Bc
-4. Mathematical Modeling of Simultaneous Nitrification and Denitrification in Bioreactor Systems 🧪 — Conference Paper, Published: March 2023, National Conference on “Sustainable Technologies in Chemical-Biological Systems” (STCBS)
-5. Heart Disease Prediction by Machine Learning Over Big Data from Health Care Communities ❤️ — Conference Paper
+Researched multimodal fact verification and contributed to **FACTIFY3M**, published at EMNLP 2023.
 
-📢 News & Updates
-======
-📌 Fall 2025 – SDE Co-op @ Amazon
+### IIT Delhi | Machine Learning Research
+**2022–2023**
 
-📌 Summer 2025 – Data Science Intern @ Walmart Global Tech
+Studied machine learning for predictive maintenance and equipment failure prediction.
 
-📌 Feb 27, 2025 – Research Paper "Advancing Predictive Maintenance: A Data-Driven Approach for Accurate Equipment Failure Prediction" published in Industry 4.0 and Advanced Manufacturing, Volume 1 🎓
+## Selected research
 
-📌 Oct 7, 2023 – Research Paper Accepted at EMNLP 2023 🎉 FACTIFY3M: A Benchmark for Multimodal Fact Verification with Explainability through 5W Question-Answering 📖
+I have contributed to **five research publications**, including work on multimodal fact verification, predictive maintenance, AI-assisted drug discovery, mathematical modeling, and healthcare ML.
 
-📌 Aug 2024 – Started my Master’s at The University of Texas at Dallas (UTD) 🎓 Focused on Applied Machine Learning and Data Science! 🧠
+- **FACTIFY3M:** Multimodal fact verification with explainability through 5W question answering, EMNLP 2023.
+- **Advancing Predictive Maintenance:** Data-driven equipment failure prediction, 2025.
+- Additional work in drug discovery, bioreactor modeling, and heart disease prediction.
 
-📌 Jan 2024 – Presented at International Conference at IISc Bangalore 📍 Presented paper: "Predictive Maintenance using ML Algorithms"
+[Explore all publications →](/publications/) · [Google Scholar →](https://scholar.google.com/citations?user=UK_QsgwAAAAJ&hl=en)
 
-📌 Jan 2024 - Jul 2024 – Started Internship at ZeoAuto (YC W20) 🚀 Excited to contribute to cutting-edge AI-powered solutions!
+## Technical focus
 
-📌 Jul 2023 - Dec 2023 – Completed Internship at InMobi 📊 Enhancing business strategies through data and machine learning!
+**Languages:** Python, Java, TypeScript, SQL, C/C++
 
-📌 May 2023 - Jul 2023 – Completed Project Internship at IIT Delhi 🔬 Working on predictive maintenance with machine learning!
+**AI / ML:** LLMs, retrieval-augmented generation, model evaluation, multimodal learning, PyTorch, Hugging Face
 
-📌 Aug 2022 - Jul 2023 – Completed Research Internship at AI Institute of South Carolina 🔬 Working on multimodal AI and fake news detection!
+**Systems:** REST APIs, FastAPI, distributed data processing, Docker, CI/CD, AWS
 
-📌 Oct 3, 2022 – Earned the Bloomberg Market Concepts (BMC) Certification 📈 Expanding my financial and data analytics knowledge!
+## Education
 
-📌 Aug 2019 – Started Dual Degree at BITS Pilani 🎓 Leading in technology and innovation in India!
+**The University of Texas at Dallas** · M.S. Information Technology & Management, 2025
 
+**BITS Pilani** · Dual degree: M.Sc. (Hons.) Biological Sciences and B.E. (Hons.) Mechanical Engineering, 2024
+
+---
+
+Interested in building useful AI systems together? [Connect on LinkedIn](https://www.linkedin.com/in/adityapakala/) or [explore my GitHub](https://github.com/adityapakala).
