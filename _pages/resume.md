@@ -5,8 +5,10 @@ permalink: /resume/
 author_profile: true
 ---
 
-My current resume, focused on AI systems, applied machine learning, and software engineering.
+My resume is available below as a PDF.
 
-**[View my experience and background](/cv/)**
+**[View resume (PDF)](/Aditya_Pakala_Resume_2026_Updated_Q4_Nov.pdf)**
 
-The downloadable PDF will be added here once the resume file is uploaded to this repository.
+[Download resume](/Aditya_Pakala_Resume_2026_Updated_Q4_Nov.pdf){: download="Aditya_Pakala_Resume_2026_Updated_Q4_Nov.pdf" }
+
+You can also explore my [experience](/cv/), [research publications](/publications/), and [selected projects](/projects/) on this website.
