@@ -7,58 +7,43 @@ redirect_from:
   - /resume
 ---
 
+## Experience
+
+**Amazon Robotics** · Software Development Engineer (2026–present); SDE Co-op (2025)
+
+Software engineering for robotics systems and production services.
+
+**Walmart Global Tech** · Applied AI / Data Science (2025–2026)
+
+Applied machine learning and AI solutions for retail data and business workflows.
+
+**ZeoAuto (Y Combinator)** · Software Engineering (2024)
+
+Backend development and ML-enabled routing systems.
+
+**AI Institute, University of South Carolina** · AI Research (2022–2023)
+
+Multimodal fact verification research, including FACTIFY3M (EMNLP 2023).
+
+**Indian Institute of Technology Delhi** · ML Research (2022–2023)
+
+Predictive maintenance and equipment failure modeling.
+
+## Education
+
+- **The University of Texas at Dallas:** M.S. Information Technology & Management, 2025.
+- **BITS Pilani:** M.Sc. (Hons.) Biological Sciences and B.E. (Hons.) Mechanical Engineering, 2024.
+
+## Technical skills
+
+Python, Java, TypeScript, SQL, C/C++, machine learning, LLM evaluation, retrieval-augmented generation, PyTorch, FastAPI, AWS, Docker, CI/CD, and distributed data processing.
+
+## Publications
+
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[View the full publications page](/publications/) · [Google Scholar](https://scholar.google.com/citations?user=UK_QsgwAAAAJ&hl=en)
