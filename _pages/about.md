@@ -65,8 +65,8 @@ redirect_from:
       <li><strong>Amazon Robotics</strong><span>Robotics · Software Engineering</span></li>
       <li><strong>Walmart Global Tech</strong><span>Fortune 1 · Applied AI</span></li>
       <li><strong>ZeoAuto (Y Combinator)</strong><span>Startup · Engineering</span></li>
-      <li><strong>AIISC, University of South Carolina</strong><span>Multimodal AI Research</span></li>
-      <li><strong>IIT Delhi</strong><span>Machine Learning Research</span></li>
+      <li><strong>Artificial Intelligence Institute, University of South Carolina</strong><span>Multimodal AI Research</span></li>
+      <li><strong>Indian Institute of Technology (IIT) Delhi</strong><span>Machine Learning Research</span></li>
     </ol>
   </section>
 </div>
