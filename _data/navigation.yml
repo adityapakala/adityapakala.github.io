@@ -1,13 +1,11 @@
 main:
-  - title: "Home"
+  - title: "About"
     url: /
   - title: "Experience"
-    url: /#experience
+    url: /cv/
+  - title: "Research"
+    url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /cv/
-  - title: "GitHub"
-    url: https://github.com/adityapakala
+  - title: "Gallery"
+    url: /gallery/
