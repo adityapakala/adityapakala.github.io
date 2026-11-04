@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aditya Pakala | AI Systems & Research Engineering"
+title: "Aditya Pakala | AI, Research & Software"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 # Building reliable AI systems, from research to production
 
-I'm Aditya Pakala, a software engineer with experience in applied machine learning, AI research, and production software. I'm interested in **Research Engineer** and **Forward Deployed Engineer** roles where I can turn emerging AI capabilities into dependable tools that solve real problems.
+I'm Aditya Pakala, a software engineer with experience in applied machine learning, AI research, and production software. I focus on turning emerging AI capabilities into dependable tools that solve real problems.
 
 My work spans software engineering at **Amazon Robotics**, applied AI at **Walmart Global Tech**, backend and ML systems at **ZeoAuto (Y Combinator)**, and research in multimodal fact verification and predictive maintenance.
 
